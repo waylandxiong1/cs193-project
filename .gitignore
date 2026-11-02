@@ -1,0 +1,28 @@
+# Java compiled files
+*.class
+
+# Maven build output
+target/
+
+# VS Code settings
+.vscode/
+
+# Private configuration
+.env
+.env.*
+!.env.example
+config.properties
+
+# Saved browser login sessions
+auth/
+playwright/.auth/
+
+# Downloaded calendars
+*.ics
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
